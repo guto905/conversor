@@ -8,7 +8,7 @@
     "test": "jest"
   },
   "repository": "https://bitbucket.org/recrutamento_jya_nodejs/recrutamento-conversor-nodejs-gmouraria_gmail.com/src/master/",
-  "author": "guto905 <gmouraria@gmail.com>",
+  "author": "Gustavo de Mouraria Pereira <gmouraria@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@swc-node/register": "^1.5.5",
