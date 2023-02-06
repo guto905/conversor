@@ -1,5 +1,5 @@
 {
-  "name": "recrutamento-conversor-nodejs-dev.jpedro_gmail.com",
+  "name": "recrutamento-conversor-nodejs-gmouraria_gmail.com",
   "version": "1.0.0",
   "scripts": {
     "dev": "nodemon src/server.ts",
@@ -7,8 +7,8 @@
     "start": "node dist/server.js",
     "test": "jest"
   },
-  "repository": "https://devjpedro@bitbucket.org/recrutamento_jya_nodejs/recrutamento-conversor-nodejs-dev.jpedro_gmail.com.git",
-  "author": "dev.jpedro <dev.jpedro@gmail.com>",
+  "repository": "https://bitbucket.org/recrutamento_jya_nodejs/recrutamento-conversor-nodejs-gmouraria_gmail.com/src/master/",
+  "author": "guto905 <gmouraria@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@swc-node/register": "^1.5.5",
